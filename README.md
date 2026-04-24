@@ -23,3 +23,5 @@ A full-stack Job Portal web application developed using Java, JSP, Servlets, and
 
 #### Admin Dashboard
 ![Admin Dashboard](screenshots/admin_dash.png)
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/681bf496-58ed-4087-ab68-9020259c648f" />
+
