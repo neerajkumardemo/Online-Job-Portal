@@ -16,3 +16,10 @@ A full-stack Job Portal web application developed using Java, JSP, Servlets, and
 2. Run the `database.sql` script in your MySQL server.
 3. Configure the database password in your DAO classes.
 4. Run the project on **Tomcat Server**.
+### 📸 Project Screenshots
+
+#### Home Page & Search
+![Home Page](screenshots/home.png)
+
+#### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dash.png)
